@@ -1,0 +1,20 @@
+# Core ML/Vision Libraries
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.35.0
+
+# Vision and Image Processing
+PIL>=9.0.0
+Pillow>=9.0.0
+
+# Data & ML Tools
+numpy>=1.24.0
+datasets>=2.14.0
+tqdm>=4.65.0
+
+# NLP
+spacy>=3.7.0
+# After installation, run: python -m spacy download en_core_web_sm
+
+# Utilities
+pyyaml>=6.0
