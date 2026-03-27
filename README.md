@@ -1,4 +1,4 @@
-# LLaVA and Qwen3-VL Evaluation Framework
+# Inference-Time Structural Reasoning for Compositional Vision-Language Understanding
 
 A comprehensive research framework for evaluating and analyzing vision-language models (VLMs) on compositional reasoning tasks, with focus on the **Winoground benchmark**.
 
